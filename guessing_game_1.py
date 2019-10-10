@@ -22,7 +22,6 @@ while True:
 				user = None #we are changing the value back to none
 			else:
 				print("Thanks for playing")
-				break #trhis is for breaking inner while loop
 		break  #this break is to stop the parent while loop as the loop is defined for condition true
 
     
